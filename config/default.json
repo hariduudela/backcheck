@@ -1,0 +1,4 @@
+{
+    "DBMongo":"mongodb://pbbm:p12345@ds127954.mlab.com:27954/pbbmapp?authSource=pbbmapp&w=1'",
+    "secret" : "MyWebSiteTokenSecsret"
+}
